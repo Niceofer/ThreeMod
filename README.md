@@ -12,6 +12,7 @@ Download and install the package for your operating system from [GitHub Releases
 
 - **Windows**: Run the Windows installer. See also the [Windows installation guide](./INSTALL_BYC_WINDOWS.md).
 - **macOS**: Download the macOS package and install the app. Requires macOS 13 Ventura or later.
+- **Linux (x64)**: Download the AppImage or `.deb` package. For AppImage, grant execute permission and run it; on Debian/Ubuntu, install the `.deb` package with your package manager. Linux packages are also distributed through GitHub Actions releases when the Linux build is enabled.
 
 The desktop app is currently unsigned, so your operating system may display a security warning. On Windows, check **More info → Run anyway**. On macOS, use **right-click → Open** in Finder or check the option to allow the app in **System Settings → Privacy & Security**.
 
