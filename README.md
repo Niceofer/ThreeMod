@@ -19,7 +19,7 @@ The desktop app is currently unsigned, so your operating system may display a se
 
 Create and edit projects in the ThreeMod desktop app. In the project details panel, select **Export bundle → Export to folder** to export the project data and required assets.
 
-Run exported bundles with the [`source` player](./source/README.md) in this repository. Place bundles in `source/share_data`, start the player, and open **http://localhost:3300** to play from the project home screen. See the [player README](./source/README.md) for installation and startup commands.
+Player source distribution is currently in preparation. Installation and startup instructions for running exported bundles in a local web browser will be provided when the source is released.
 
 ![Project bundle deployment workflow](./author-export-play.svg)
 
@@ -33,11 +33,11 @@ Try content created with ThreeMod directly in your browser, without installing a
 ## Repository layout
 
 - **Root**: Introduction, installation instructions, and related materials for the ThreeMod desktop packages available in Releases
-- **[`source/`](./source/)**: Player source and instructions for running project bundles in a local web browser
+- **Player source**: Distribution is currently in preparation.
 
 ## Publish your project
 
-To make your project available to others, upload the player and bundles to a cloud server and serve them through a domain or static IP address.
+Self-hosting instructions for publishing your projects will be provided when the player source is released. Player source distribution is currently in preparation.
 
 ## Terms of use
 
