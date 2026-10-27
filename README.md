@@ -1,6 +1,6 @@
 # ThreeMod
 
-ThreeMod is an AI-native game engine for creating games and interactive content without writing code. Create projects in the desktop app, export them as bundles, and play them in a web browser.
+ThreeMod is an AI-native game engine built on Three.js for creating games and interactive content without writing code.
 
 [Desktop downloads](https://github.com/Niceofer/ThreeMod/releases) · [Website](https://threemod.com) · [Discord](https://discord.gg/aFjbNBh6)
 
@@ -18,9 +18,11 @@ The desktop app is currently unsigned, so your operating system may display a se
 
 ## Create and play projects
 
-Create and edit projects in the ThreeMod desktop app. In the project details panel, select **Export bundle → Export to folder** to export the project data and required assets.
+1. **Create a project bundle**: Create and edit your project in the ThreeMod desktop app, then select **Export bundle → Export to folder** in the project details panel to export the project data and required assets.
 
-Player source distribution is currently in preparation. Installation and startup instructions for running exported bundles in a local web browser will be provided when the source is released.
+2. **Download the player source**: Use the separately distributed player source to run your bundle in a web browser. The source is for running projects; the full editor source is not included. **Player source distribution is currently in preparation.**
+
+3. **Host your project**: Deploy the player and your bundle to your own server to make your project available as a web service. Installation, startup, and self-hosting instructions will be provided when the player source is released.
 
 ![Project bundle deployment workflow](./author-export-play.svg)
 
