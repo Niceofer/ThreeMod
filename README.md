@@ -20,9 +20,9 @@ The desktop app is currently unsigned, so your operating system may display a se
 
 1. **Create a project bundle**: Create and edit your project in the ThreeMod desktop app, then select **Export bundle → Export to folder** in the project details panel to export the project data and required assets.
 
-2. **Download the player source**: Use the separately distributed player source to run your bundle in a web browser. The source is for running projects; the full editor source is not included. **Player source distribution is currently in preparation.**
+2. **Player source — in preparation**: Once released, the separately distributed player source will let you run your bundle in a web browser. The source is for running projects; the full editor source is not included. **Player source distribution is currently in preparation.**
 
-3. **Host your project**: Deploy the player and your bundle to your own server to make your project available as a web service. Installation, startup, and self-hosting instructions will be provided when the player source is released.
+3. **Self-hosting — after the player source is released**: Once the player source is released, you will be able to deploy it with your bundle to your own server. Installation, startup, and self-hosting instructions will be provided when the player source is released.
 
 ![Project bundle deployment workflow](./author-export-play.svg)
 
