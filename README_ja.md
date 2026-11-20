@@ -2,7 +2,7 @@
 
 ThreeMod は、Three.js を基盤とする AI ネイティブのゲームエンジンです。コードを書かずにゲームやインタラクティブコンテンツを制作できます。
 
-[デスクトップ版のダウンロード](https://github.com/Niceofer/ThreeMod/releases) · [ウェブサイト](https://threemod.com) · [Discord](https://discord.gg/aFjbNBh6)
+[デスクトップ版のダウンロード](https://github.com/Niceofer/ThreeMod/releases) · [ウェブサイト](https://threemod.com) · [コミュニティ (Discord)](https://discord.gg/uAKu2QjtRP)
 
 [English](./README.md) · [한국어](./README_ko.md)
 

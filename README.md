@@ -2,7 +2,7 @@
 
 ThreeMod is an AI-native game engine built on Three.js for creating games and interactive content without writing code.
 
-[Desktop downloads](https://github.com/Niceofer/ThreeMod/releases) · [Website](https://threemod.com) · [Discord](https://discord.gg/aFjbNBh6)
+[Desktop downloads](https://github.com/Niceofer/ThreeMod/releases) · [Website](https://threemod.com) · [Community (Discord)](https://discord.gg/uAKu2QjtRP)
 
 [한국어](./README_ko.md) · [日本語](./README_ja.md)
 
