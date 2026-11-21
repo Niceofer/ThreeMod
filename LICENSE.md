@@ -10,7 +10,7 @@ Your use of ThreeMod is governed by the **End-User License Agreement
 (EULA)**, which is the complete and controlling license. This file is a summary
 for convenience; if anything here conflicts with the EULA, the EULA prevails.
 
-- Full terms: [EULA.md](EULA.md) · [한국어 EULA](EULA_ko.md)
+- Full terms: [EULA.md](EULA.md) · [Korean EULA](EULA_ko.md)
 - Bundled open-source components: [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md)
 
 ---
