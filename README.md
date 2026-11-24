@@ -32,7 +32,7 @@ Try content created with ThreeMod directly in your browser, without installing a
   <tr>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_LOGI1TO7-NX8XL2Z1"><img src="./assets/demos/petaflop-duel.jpg" width="360" alt=""><br><strong>Petaflop Duel</strong></a><br>
-      <sub>Action ? Strategy ? Turn-based &middot; <a href="./assets/demos/petaflop-duel.gif?raw=true">View GIF</a></sub>
+      <sub>Action / Strategy / Turn-based &middot; <a href="./assets/demos/petaflop-duel.gif?raw=true">View GIF</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_MLI3AJT1-ZK17KS6J"><img src="./assets/demos/breaching-the-black-fang-fortress.jpg" width="360" alt=""><br><strong>Breaching the Black-Fang Fortress</strong></a><br>
@@ -42,7 +42,7 @@ Try content created with ThreeMod directly in your browser, without installing a
   <tr>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_08PRPK6Y-J5TQJ152"><img src="./assets/demos/ascent-of-the-wild.jpg" width="360" alt=""><br><strong>Ascent of the Wild</strong></a><br>
-      <sub>Action ? Adventure ? Puzzle &middot; <a href="./assets/demos/ascent-of-the-wild.gif?raw=true">View GIF</a></sub>
+      <sub>Action / Adventure / Puzzle &middot; <a href="./assets/demos/ascent-of-the-wild.gif?raw=true">View GIF</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_YFNFLMWH-1POD7KZ4"><img src="./assets/demos/nebula-recovery-mission.jpg" width="360" alt=""><br><strong>Nebula Recovery Mission</strong></a><br>
@@ -52,21 +52,21 @@ Try content created with ThreeMod directly in your browser, without installing a
   <tr>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_U50BL5HY-06UEZ5PS"><img src="./assets/demos/a-home-takes-shape.jpg" width="360" alt=""><br><strong>A Home Takes Shape</strong></a><br>
-      <sub>Interactive Story ? Simulation ? Slice of Life &middot; <a href="./assets/demos/a-home-takes-shape.gif?raw=true">View GIF</a></sub>
+      <sub>Interactive Story / Simulation / Slice of Life &middot; <a href="./assets/demos/a-home-takes-shape.gif?raw=true">View GIF</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_0KMAK7ZW-ZMCWVR7B"><img src="./assets/demos/last-stand-against-darkness.jpg" width="360" alt=""><br><strong>Last Stand Against Darkness</strong></a><br>
-      <sub>Action ? Strategy ? Fantasy &middot; <a href="./assets/demos/last-stand-against-darkness.gif?raw=true">View GIF</a></sub>
+      <sub>Action / Strategy / Fantasy &middot; <a href="./assets/demos/last-stand-against-darkness.gif?raw=true">View GIF</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_UGR5ZBG1-KM0W1FMZ"><img src="./assets/demos/colossus-of-the-arena.jpg" width="360" alt=""><br><strong>Colossus of the Arena</strong></a><br>
-      <sub>Action ? Fantasy &middot; <a href="./assets/demos/colossus-of-the-arena.gif?raw=true">View GIF</a></sub>
+      <sub>Action / Fantasy &middot; <a href="./assets/demos/colossus-of-the-arena.gif?raw=true">View GIF</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_2L3I6QFJ-H6E2NU43"><img src="./assets/demos/hammerfall-demolition-job.jpg" width="360" alt=""><br><strong>Hammerfall Demolition Job</strong></a><br>
-      <sub>Destruction ? Action ? Survival &middot; <a href="./assets/demos/hammerfall-demolition-job.gif?raw=true">View GIF</a></sub>
+      <sub>Destruction / Action / Survival &middot; <a href="./assets/demos/hammerfall-demolition-job.gif?raw=true">View GIF</a></sub>
     </td>
   </tr>
 </table>
