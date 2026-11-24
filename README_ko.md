@@ -31,48 +31,45 @@ ThreeMod로 만든 콘텐츠를 설치 없이 브라우저에서 실행해 보�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_LOGI1TO7-NX8XL2Z1"><img src="https://threemod.com/assets/demos/petaflop-duel.gif" width="360" alt=""><br><strong>연산력을 건 맞대결</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_LOGI1TO7-NX8XL2Z1"><img src="./assets/demos/petaflop-duel.gif" width="360" alt=""><br><strong>연산력을 건 맞대결</strong></a><br>
       <sub>액션 ? 전략 ? 턴제</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_MLI3AJT1-ZK17KS6J"><img src="https://threemod.com/assets/demos/breaching-the-black-fang-fortress.gif" width="360" alt=""><br><strong>검은 이빨 요새 돌파</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_MLI3AJT1-ZK17KS6J"><img src="./assets/demos/breaching-the-black-fang-fortress.gif" width="360" alt=""><br><strong>검은 이빨 요새 돌파</strong></a><br>
       <sub>액션</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_08PRPK6Y-J5TQJ152"><img src="https://threemod.com/assets/demos/ascent-of-the-wild.gif" width="360" alt=""><br><strong>야생의 정상</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_08PRPK6Y-J5TQJ152"><img src="./assets/demos/ascent-of-the-wild.gif" width="360" alt=""><br><strong>야생의 정상</strong></a><br>
       <sub>액션 ? 어드벤처 ? 퍼즐</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_YFNFLMWH-1POD7KZ4"><img src="https://threemod.com/assets/demos/nebula-recovery-mission.gif" width="360" alt=""><br><strong>성운 회복 임무</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_YFNFLMWH-1POD7KZ4"><img src="./assets/demos/nebula-recovery-mission.gif" width="360" alt=""><br><strong>성운 회복 임무</strong></a><br>
       <sub>액션</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_U50BL5HY-06UEZ5PS"><img src="https://threemod.com/assets/demos/a-home-takes-shape.gif" width="360" alt=""><br><strong>집의 모습이 갖춰지다</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_U50BL5HY-06UEZ5PS"><img src="./assets/demos/a-home-takes-shape.gif" width="360" alt=""><br><strong>집의 모습이 갖춰지다</strong></a><br>
       <sub>인터랙티브 스토리 ? 시뮬레이션 ? 일상</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_0KMAK7ZW-ZMCWVR7B"><img src="https://threemod.com/assets/demos/last-stand-against-darkness.gif" width="360" alt=""><br><strong>어둠에 맞선 최후의 저항</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_0KMAK7ZW-ZMCWVR7B"><img src="./assets/demos/last-stand-against-darkness.gif" width="360" alt=""><br><strong>어둠에 맞선 최후의 저항</strong></a><br>
       <sub>액션 ? 전략 ? 판타지</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_UGR5ZBG1-KM0W1FMZ"><img src="https://threemod.com/assets/demos/colossus-of-the-arena.gif" width="360" alt=""><br><strong>투기장의 거상</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_UGR5ZBG1-KM0W1FMZ"><img src="./assets/demos/colossus-of-the-arena.gif" width="360" alt=""><br><strong>투기장의 거상</strong></a><br>
       <sub>액션 ? 판타지</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_2L3I6QFJ-H6E2NU43"><img src="https://threemod.com/assets/demos/hammerfall-demolition-job.gif" width="360" alt=""><br><strong>해머폴 철거 작업</strong></a><br>
+      <a href="https://share.threemod.com/byc_6c536d94e10343adb8a141cff570f990?node=N_2L3I6QFJ-H6E2NU43"><img src="./assets/demos/hammerfall-demolition-job.gif" width="360" alt=""><br><strong>해머폴 철거 작업</strong></a><br>
       <sub>파괴 ? 액션 ? 생존</sub>
     </td>
   </tr>
 </table>
-
-- [Life Simulation](https://share.threemod.com/byc_f8b97ef4c16045149399d27014556e48)
-- [Interaction](https://share.threemod.com/byc_b0cc670cf88f4838b6e1abd80e7755d5)
 
 ## 저장소 구성
 
